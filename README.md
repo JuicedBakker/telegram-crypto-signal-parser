@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# crypto-signal-parser
-=======
 # Cryptocurrency Signal Parser
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does. 
+This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -42,5 +39,4 @@ This parsing algorithm allows you to parse so called "cryptocurrency signals". T
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
->>>>>>> 5ff01117625fa1ac173a8e302184d1ef4a7633ba
+[JQuery-url]: https://jquery.com

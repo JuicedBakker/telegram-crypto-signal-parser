@@ -14,7 +14,7 @@ This parsing algorithm allows you to parse so called "cryptocurrency signals". T
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/JuicedBakker/crypto-signal-parser/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JuicedBakker/crypto-signal-parser?style=for-the-badge
 [forks-url]: https://github.com/JuicedBakker/crypto-signal-parser/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/JuicedBakker/crypto-signal-parser/stargazers

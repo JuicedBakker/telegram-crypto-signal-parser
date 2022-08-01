@@ -1,0 +1,21 @@
+⚡️⚡️ #BTC/USDT ⚡️⚡️
+
+Client: Binance Futures
+Trade Type: Regular (SHORT)
+Leverage: Isolated (10.0X)
+
+Entry Zone:
+37350 - 37000
+
+Take-Profit Targets:
+1) 36670 - 20%
+2) 36220 - 20%
+3) 35800 - 20%
+4) 35400 - 20%
+5) 35000 - 20%
+
+Stop Targets:
+1) 39100 - 100.0%
+
+Risk level 7/10
+Published By: @raticoin1

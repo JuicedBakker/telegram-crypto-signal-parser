@@ -1,0 +1,16 @@
+#SIGNAL (BTCUSD) @CryptoKlondike
+
+📛 Risk of the signal: 7/10
+
+🔑 Open SHORT for the price between 44150$ - 45600$ with 4% of your deposit with X25 leverage
+
+🉐 Targets:
+
+1️⃣ Close the order at the price $43600
+2️⃣ Close the order at the price $43100
+3️⃣ Close the order at the price $42400
+4️⃣ Close the order at the price $41500
+5️⃣ Close the order at the price $40300
+4000.0
+
+❗️STOP LOSS: $46250

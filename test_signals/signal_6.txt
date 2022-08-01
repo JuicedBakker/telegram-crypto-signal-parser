@@ -1,0 +1,12 @@
+ETH  / BTC :
+
+LONG : 0.027
+
+TARGET 1  : 0.034
+TARGET 2  : 0.045
+
+STOP 0.024
+
+@TRAD_CT
+
+https://www.tradingview.com/x/vq5gohGX/

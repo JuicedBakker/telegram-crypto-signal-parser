@@ -1,0 +1,6 @@
+СF Leverage Trading Signal
+Pair: ETH/USDT #LONG
+Leverage: cross 100x (not more than 3-4% balance)
+Targets: 740 - 750 - 770 - 790
+Get in : 725 - 735
+SL: 700

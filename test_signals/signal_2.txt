@@ -1,0 +1,14 @@
+CTK  / USDT
+
+LONG  : 1.38
+
+Leverage X10 X25
+
+Target :
+
+TARGET 1  : 1.43$
+TARGET 2  : 1.49$
+TARGET 3  : 1.53$
+TARGET 4  : 1.58$
+
+STOP : 1.28$

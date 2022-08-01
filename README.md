@@ -33,6 +33,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## The goal of this project
+
+I'm aiming towards making an app which is used by the client, which everyone can use to automatically open trades that are posted in telegram groups. So even if you're busy that day, you can still follow the trades posted in the channels you follow. I believe this would enable people to trade more efficiently and allow them to not be on their phone, worrying about missing anything.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

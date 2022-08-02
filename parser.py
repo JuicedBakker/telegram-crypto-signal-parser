@@ -7,6 +7,7 @@ symbols = []
 [symbols.append(x["symbol"]) for x in tickers['symbols']]
 
 class Signal:
+    # constructor
     def __init__(self, signal):
         self.signal = signal
         self.__parse_signal()
@@ -27,6 +28,7 @@ class Signal:
     def get_targets(self):
         return self.targets
 
+    # translates class attributes into json format.
     def to_json(self):
         signal_json = {}
         signal_json['symbol'] = self.symbol
@@ -35,15 +37,19 @@ class Signal:
         signal_json['stop_loss'] = self.stop_loss
         return signal_json
 
+    # parses the signal to find entry, target and stop loss values.
     def __parse_signal(self):
         filtered_signal = self.signal.replace(' ','').replace('/','').upper()
+
+        # abstract the symbol from the signal.
         first_3_lines = filtered_signal.split('\n')[:3]
         string_to_parse = ''.join(first_3_lines)
         self.symbol = ""
-        for symbol in symbols:
+        for symbol in symbols: # check whether a known symbol exists in signal.
             if symbol in string_to_parse:
                 self.symbol = symbol
-            # split the signal on blank lines
+
+        # split the signal on blank lines
         new_signal = self.signal.split('\n\n')
         if len(new_signal) == 1:
             # if no blank lines exist, split single lines

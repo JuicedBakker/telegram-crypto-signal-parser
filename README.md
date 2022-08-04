@@ -14,6 +14,7 @@ This parsing algorithm allows you to parse so called "cryptocurrency signals". T
 - [x] Parse symbols / (entry, target, stop loss)
 - [ ] Write more in depth documentation.
 - [ ] Add Telegram / discord integration
+- [ ] Migrate the project to NodeJs
 - [ ] Adding a frontend/UI for easier usage
 - [ ] Add Binance integration for automated trading.
 

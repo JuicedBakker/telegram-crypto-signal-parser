@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/JuicedBakker/telegram-crypto-signal-parser)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/JuicedBakker/telegram-crypto-signal-parser)
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 

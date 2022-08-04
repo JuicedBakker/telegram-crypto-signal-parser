@@ -85,6 +85,7 @@ STOP : 1.28$
     ]
 }
 ```
+<!---
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tooljet/tooljet-ce)
 ![GitHub contributors](https://img.shields.io/github/contributors/tooljet/tooljet)
 [![GitHub issues](https://img.shields.io/github/issues/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet/issues)
@@ -95,20 +96,20 @@ STOP : 1.28$
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tooljet/tooljet)
 [![GitHub license](https://img.shields.io/github/license/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ToolJet?style=social)](https://twitter.com/ToolJet)
-
+--!>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JuicedBakker/crypto-signal-parser?
+[contributors-shield]: https://img.shields.io/github/contributors/JuicedBakker/crypto-signal-parser
 [contributors-url]: https://github.com/JuicedBakker/crypto-signal-parser/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JuicedBakker/crypto-signal-parser?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/JuicedBakker/crypto-signal-parser
 [forks-url]: https://github.com/JuicedBakker/crypto-signal-parser/network/members
-[stars-shield]: https://img.shields.io/github/stars/JuicedBakker/crypto-signal-parser?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/JuicedBakker/crypto-signal-parser
 [stars-url]: https://github.com/JuicedBakker/crypto-signal-parser/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JuicedBakker/crypto-signal-parser?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/JuicedBakker/crypto-signal-parser
 [issues-url]: https://github.com/JuicedBakker/crypto-signal-parser/issues
-[license-shield]: https://img.shields.io/github/JuicedBakker/crypto-signal-parser?style=for-the-badge
+[license-shield]: https://img.shields.io/github/JuicedBakker/crypto-signal-parser
 [license-url]: https://github.com/JuicedBakker/crypto-signal-parser/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg
 [linkedin-url]: https://www.linkedin.com/in/joostmbakker/
 

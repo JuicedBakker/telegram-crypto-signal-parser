@@ -6,7 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does.
+This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does. It can be used just to monitor trades more easily, but is best when it is combined with an autotrading algorithm you already own.
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -14,7 +14,7 @@ This parsing algorithm allows you to parse so called "cryptocurrency signals". T
 - [x] Parse symbols / (entry, target, stop loss)
 - [ ] Write more in depth documentation.
 - [ ] Add Telegram / discord integration
-- [ ] Add front-end for ease of use.
+- [ ] Adding a frontend/UI for easier usage
 - [ ] Add Binance integration for automated trading.
 
 See the [open issues](https://github.com/JuicedBakker/crypto-signal-parser/issues) for a full list of proposed features (and known issues).

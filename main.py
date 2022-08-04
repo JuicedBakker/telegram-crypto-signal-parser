@@ -5,7 +5,7 @@ import sys
 import asyncio
 import json
 
-with open("./config.yml", "r") as ymlfile:
+with open("./config/config.yml", "r") as ymlfile:
     cfg = yaml.load(ymlfile, Loader=yaml.SafeLoader)
 
 api_id = cfg['telethon']['api_id']

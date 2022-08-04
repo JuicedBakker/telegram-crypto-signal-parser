@@ -85,10 +85,21 @@ STOP : 1.28$
     ]
 }
 ```
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tooljet/tooljet-ce)
+![GitHub contributors](https://img.shields.io/github/contributors/tooljet/tooljet)
+[![GitHub issues](https://img.shields.io/github/issues/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet/stargazers)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/tooljet/tooljet)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/tooljet/tooljet)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tooljet/tooljet)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tooljet/tooljet)
+[![GitHub license](https://img.shields.io/github/license/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ToolJet?style=social)](https://twitter.com/ToolJet)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JuicedBakker/crypto-signal-parser?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/JuicedBakker/crypto-signal-parser?
 [contributors-url]: https://github.com/JuicedBakker/crypto-signal-parser/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JuicedBakker/crypto-signal-parser?style=for-the-badge
 [forks-url]: https://github.com/JuicedBakker/crypto-signal-parser/network/members

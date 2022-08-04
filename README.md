@@ -4,6 +4,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![GitHub release (latest by date)][GitHub release (latest by date)]
+[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does. It can be used just to monitor trades more easily, but is best when it is combined with an autotrading algorithm you already own.
@@ -110,6 +112,8 @@ STOP : 1.28$
 [issues-url]: https://github.com/JuicedBakker/crypto-signal-parser/issues
 [license-shield]: https://img.shields.io/github/JuicedBakker/crypto-signal-parser
 [license-url]: https://github.com/JuicedBakker/crypto-signal-parser/blob/master/LICENSE.txt
+[GitHub release (latest by date)]: https://img.shields.io/github/v/release/JuicedBakker/crypto-signal-parser
+[GitHub commit activity]: https://img.shields.io/github/commit-activity/m/JuicedBakker/crypto-signal-parser
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg
 [linkedin-url]: https://www.linkedin.com/in/joostmbakker/
 

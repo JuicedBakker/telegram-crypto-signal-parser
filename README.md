@@ -48,7 +48,7 @@ I'm aiming towards making an app which is used by the client, which everyone can
 
 ## Examples
 
-# Original signal
+### Original signal
 ```
 CTK  / USDT
 
@@ -66,7 +66,7 @@ TARGET 4  : 1.58$
 STOP : 1.28$
 ```
 
-# Parsed signal
+### Parsed signal
 ```json
 {
     "symbol": "CTKUSDT",

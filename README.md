@@ -1,4 +1,4 @@
-# Cryptocurrency Signal Parser
+# Telegram Cryptocurrency Signal Parser
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]

@@ -10,11 +10,11 @@ class Signal:
     # constructor
     def __init__(self, signal):
         self.signal = signal
-        self.__parse_signal()
-        self.entries
-        self.targets
-        self.stop_loss
-        self.symbol
+        self.is_valid = True
+        self.entries = []
+        self.targets = []
+        self.stop_loss = []
+        self.symbol = ''
 
     def get_symbol(self):
         return self.symbol
@@ -38,7 +38,7 @@ class Signal:
         return signal_json
 
     # parses the signal to find entry, target and stop loss values.
-    def __parse_signal(self):
+    def parse_signal(self):
         filtered_signal = self.signal.replace(' ','').replace('/','').upper()
 
         # abstract the symbol from the signal.
@@ -48,6 +48,10 @@ class Signal:
         for symbol in symbols: # check whether a known symbol exists in signal.
             if symbol in string_to_parse:
                 self.symbol = symbol
+
+        if self.symbol == "":
+            self.is_valid = False
+            return
 
         # split the signal on blank lines
         new_signal = self.signal.split('\n\n')

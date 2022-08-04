@@ -1,0 +1,4 @@
+telethon:
+    app_title: APPNAME # CHANGE THIS
+    api_id: API_ID # CHANGE THIS
+    api_hash: API_HASH # CHANGE THIS

@@ -7,7 +7,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/JuicedBakker/telegram-crypto-signal-parser)
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![discord](https://custom-icon-badges.herokuapp.com/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/WUAyntjbtA "Teletrader community")
+[![discord](https://custom-icon-badges.herokuapp.com/discord/1006883920857530398?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/WUAyntjbtA "Teletrader community")
 
 This parsing algorithm allows you to parse so called "cryptocurrency signals". These signals are commonly found in telegram groups and are formatted based on their source. However, it would be way more organized if all these signals would share the same format. Well, that's exactly what this program does. It can be used just to monitor trades more easily, but is best when it is combined with an autotrading algorithm you already own.
 
